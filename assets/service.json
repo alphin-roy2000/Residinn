@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "residinn-rdwm",
+  "private_key_id": "b38ac38b19af446a01634334687fc225eeb0525b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqgORC3IOm2+p8\nR7daYTlEh35bZrF+7r8ZtUnguvGhLZL/Vt2Jc89FwkLAPDG6f3GKjXH9vx4Xfhrg\nzNxWtRCFiJI/pNYtlVGhtvcMdfc69M3eA5SKhH8nClzPz02YqF52vq1lFoAgGoA2\nPos6owNVZtGii7Q5CNiihWxqArJTb9RRKdpoEg/46MZeXSOsqGqYquWWEjEbuGwc\nRB6KP/5Z/YvRXQJkRl5F7zoABSXUmZ5fz9ATJpfllDqsqvZwTX6mKDxIiRkSNCsU\nJkaeFNnEmHz/pIT2QaoF7aPLJTml8hpLbKqQiJnVNM+wQVos9nIxDT4RcZLcP8rg\nIVixYXrPAgMBAAECggEAEjkhbGX+KizSBINzvNSsVr82iZVRvjPNN/Ww1jSU07m3\nvtOtbN30Vsva74nfdMPfQkQ43Tp6gF9JhyJOIHRMtkDxBJ1dCNUvOt3/zJSlHmeA\nw0xVqXJc1rLcVZed/wVrxzw88xNzETtT3bhUkClRF2UcXceZtQjVgpVJD5GHNrSN\n2m3Y7OvMlOPgXtUkHCcF+9fjckC+DjaJFGAuPKAUBG69j9lsjzl+j08J3PHSTqm7\nh5s6RfFkKa7Zf7lS8uodeXLrmgM6AJVc+NYgkoXLLBQ5sH3CtKWCCgnXZKAnorlX\nzSWR2EVzEOTxNfLcTD5lativlN/vZk6EFSx27ZQfQQKBgQDd9qymwnvQrCcgVzP0\nfujGjzp8g+zWdTS6SoZhd0VF8b32kZRXnE3dw0RjCO9nsHkXdKrtrWOE77fR18h3\njZ3XK6bMeE0VXspw2M54lGZ9bYhgN7M1a56JR4jsHeCM2h62WJaEnjKn3L5ErUta\ncn5iLkkjT/uJrOH2JNGzvXC8wQKBgQDEph4gqyuntdn/i2QQqzHLEy8NWULkT1N1\ne15vi3dl/cGs8nxJBzu0CCxgqP5XxVtYCI5GVOOduu1OZ5zm7cIBXaelUnFWXGW0\nheWrQcl9jG06DEoBXnFlzKIaLLo4zCfMBOoH1kGTXzefNVJGAZo6neiCRogP8AOG\na7nsCXvLjwKBgG271f9bhvrTIUTL19O4Kjx/8to8HoqnxzmSPn1RCd5adR/BOSVX\nEOfh8Z1EfZc1l6gQ9bArWFgQa0BC/cidKruFySCtGO7Hvi2sAed69nBsBlALOX3f\nhrE3vGl/G9SGwUhE46UM0N5MM4SgZ/B/Shwf5eifUivuXIfkDAhgT6wBAoGAP0tQ\niydNB9AKeKv+6zaO8lQcYumGFEJMFJY+0RxMs/E3M1lhE4hWeR3gWsRKCSomunEW\niiCsmood84x5/gIs3Y+tdBLTE/7tZWtrfvHPzq8yQOrPrx0c1q1Ex7P5xGpBrPMv\n+JHHzY1qM75P2uSNJazJt5TIGokgOVXXI9fxlpUCgYEAiIKhXzoKDTZ9mqO33fTP\n4cQeerzoWBJTs6mqRK4Oi1E6B8EstSkWDGX4r/ULtZrEbn5Breoxm+0gryhOjP+g\n/w+iUzz1cRpkxIOgXS0GGxZRwZcbCj2BpAQwGqUlKtKnetjim/8Hdh3CJMtO/FM5\n11K62GuaiRqy1bUqfUvpUtg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service@residinn-rdwm.iam.gserviceaccount.com",
+  "client_id": "115937394277913895489",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40residinn-rdwm.iam.gserviceaccount.com"
+}

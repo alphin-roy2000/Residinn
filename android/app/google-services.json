@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325229890981",
+    "firebase_url": "https://residinn-c710c.firebaseio.com",
+    "project_id": "residinn-c710c",
+    "storage_bucket": "residinn-c710c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325229890981:android:9921df877941a363502c4c",
+        "android_client_info": {
+          "package_name": "com.AGJ.ResidInn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325229890981-84jmt9lkp8pns48b7pj07ch7pjjqabkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.AGJ.ResidInn",
+            "certificate_hash": "448d81214d2c770e4db0c0ca942edff2d562fecd"
+          }
+        },
+        {
+          "client_id": "325229890981-8ad8841ufua4seqpadp9ug8edk0rc2bh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0oqxAnf6AzCuqHLl_QxI-_JoJBoWeJSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325229890981-8ad8841ufua4seqpadp9ug8edk0rc2bh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
